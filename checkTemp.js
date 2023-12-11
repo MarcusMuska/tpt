@@ -9,8 +9,3 @@ function checkTemp(temperatuur) {
       return "Temperatuur ei kuulu ühtegi määratud vahemikku";
     }
   }
-  
-
-  console.log(checkTemp(15));
-  console.log(checkTemp(30));
-  console.log(checkTemp(50));
