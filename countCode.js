@@ -6,7 +6,7 @@ function countCode(letter){
 
     let lettercount = 0;
 
-    for (let i = o; i < data.length; i++){
+    for (let i = 0; i < data.length; i++){
     if (data[i].startsWith(letter)){
     }
 }
