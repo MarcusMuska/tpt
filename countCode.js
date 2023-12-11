@@ -16,5 +16,5 @@ return lettercount;
 
 
 const letter = "i";
-const tulemus = countcode(letter);
+const tulemus = countCode(letter);
 console.log(tulemus);
